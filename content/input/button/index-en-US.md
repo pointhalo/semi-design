@@ -38,10 +38,10 @@ function ButtonDemo() {
     return (
         <div className="btn-margin-right">
             <Button>Primary Button</Button>
-            <Button type="secondary">Secondary Button</Button>
-            <Button type="tertiary">Tertiary Button</Button>
-            <Button type="warning">Warning Button</Button>
-            <Button type="danger">Danger Button</Button>
+            <Button type="secondary">Secondary button</Button>
+            <Button type="tertiary">Tertiary button</Button>
+            <Button type="warning">Warning button</Button>
+            <Button type="danger">Danger button</Button>
         </div>
     );
 }
